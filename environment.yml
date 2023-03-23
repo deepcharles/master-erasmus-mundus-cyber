@@ -16,6 +16,6 @@ dependencies:
   - ruptures
   - scikit-learn
   - scipy
-  - statsmodel
+  - statsmodels
   - pip:
     - jupyterlab-code-formatter
