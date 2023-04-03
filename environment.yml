@@ -8,8 +8,9 @@ dependencies:
   - ipython
   - isort
   - jupyterlab
+  - librosa
   - matplotlib
-  - numpy
+  - numpy=1.23
   - pandas
   - pip
   - python=3.9
